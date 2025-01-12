@@ -10,3 +10,5 @@
 Входные данные: модель SkolkovoInstitute/russian_toxicity_classifier/ текст для анализа
 
 Выходные данные: результат анализа текста
+
+Подробнее здесь: https://huggingface.co/s-nlp/russian_toxicity_classifier
